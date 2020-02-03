@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/amazon-mailer": "^5.0",
+        "symfony/http-client": "^5.0",
+        "php": "^7.3"
+    }
+}
